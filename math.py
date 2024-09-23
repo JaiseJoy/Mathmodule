@@ -1,0 +1,37 @@
+import math
+
+e_variable = math.sqrt(16)
+power_variable = math.pow(3,2)
+print(e_variable)
+print(power_variable)
+x = 12.994
+ceil_variable = math.ceil(x)
+print(ceil_variable)
+floor_variable = math.floor(5.6)
+print(floor_variable)
+fabs_variable = math.fabs(-9)
+print(fabs_variable)
+fact_variable = math.factorial(5)
+print(fact_variable)
+sin_variable = math.sin(math.pi/2)
+print(sin_variable)
+cos_variable = math.cos(math.pi/2)
+print(cos_variable)
+tan_variable = math.tan(math.pi/2)
+print(tan_variable)
+log2_variable = math.log(1,10)
+print(log2_variable)
+degree_var = math.degrees(math.pi/2)
+print(degree_var)
+radian_var = math.radians(90)
+print(radian_var)
+euler_var = math.e
+print(euler_var)
+infinity_var = math.inf
+print(infinity_var)
+nan_var = math.nan
+print(nan_var)
+gcd_var = math.gcd(1,2)
+print(gcd_var)
+lcm_var = math.lcm(3,5)
+print(lcm_var)
